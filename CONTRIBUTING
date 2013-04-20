@@ -1,0 +1,13 @@
+Para contribuir envie um patch para o autor, veja o arquivo `AUTHORS`, seguindo
+o estilo indicado abaixo.
+
+Estilo
+------
+
+* Para figuras utilize a pasta `image`.
+* Para audio utilize a pasta `audio`.
+* Para videos utilize a pasta `video`.
+* Para pdfs utilize a pasta `pdf`.
+* Para outros arquivos binários utilize a pasta `bin`.
+* Arquivos de texto devem utilizar a codificação UTF8 e as linhas devem ter 80
+  caracteres ou menos (exceto o caso de links muito grandes).

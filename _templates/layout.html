@@ -1,0 +1,15 @@
+{% extends "!layout.html" %}
+{%- block footer -%}
+  <footer class="wrapper">
+  <a rel="license"
+    href="http://creativecommons.org/licenses/by/3.0/deed.pt"><img
+    alt="Licença Creative Commons" style="border-width:0"
+    src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />Esta
+  página foi licenciado com uma Licença <a rel="license"
+    href="http://creativecommons.org/licenses/by/3.0/deed.pt">Creative
+    Commons - Atribuição 3.0 Não Adaptada</a>.<br />
+  {%- if show_sphinx -%}
+  Powered by <a href="http://www.tinkerer.me/">Tinkerer</a> and <a href="http://sphinx.pocoo.org/">Sphinx</a>.
+  {%- endif -%}
+  </footer>
+{%- endblock %}

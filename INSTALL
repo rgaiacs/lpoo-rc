@@ -1,0 +1,14 @@
+Para gerar os arquivos html, utilize
+
+    $ tinker -b
+
+Os arquivos serão criados na pasta `blog/html`.
+
+Para atualizar a página no servidor, utilize
+
+    $ scp -r blog/html/* lpoo@ssh.ime.unicamp.br:~/public_html/ea
+
+ou
+
+    $ rsync -rvuhPt blog/html/ lpoo@ssh.ime.unicamp.br:~/public_html/ea
+

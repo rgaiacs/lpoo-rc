@@ -1,0 +1,16 @@
+Este é o repositório da página do projeto de ensino e aprendizado do LPOO que
+encontra-se licenciado sob CC-BY 3.0 (para mais informações veja o arquivo
+`COPYING`).
+
+Os autores deste repositório encontram-se especificados no arquivo `AUTHORS`.
+
+A única dependência para a geração dos arquivos html correspondentes a página
+do projeto é o Tinkerer (http://www.tinkerer.me/). Para instalar o Tinkerer
+utilize
+
+    $ pip install Tinkerer
+
+Instruções para gerar os arquivos html da página (e deploy) encontram-se no
+arquivo `INSTALL`.
+
+Se desejar contribuir veja o arquivo `CONTRIBUTING`.
