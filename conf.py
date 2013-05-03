@@ -8,10 +8,10 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'LPOO'                   
+project = 'LPOO - Rede de Colaboração'
 
 # Change this to the tagline of your blog
-tagline = 'Ensino e Aprendizado'                  
+tagline = ''
 
 # Change this to your name
 author = 'Raniere Silva'
@@ -20,7 +20,7 @@ author = 'Raniere Silva'
 copyright = '2013, ' + author         
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://www.lpoo.ime.unicamp.br'                              
+website = 'http://www.lpoo.ime.unicamp.br/rc'
 
 # **************************************************************
 # More tweaks you can do
