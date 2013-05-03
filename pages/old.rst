@@ -33,9 +33,14 @@ Programação
 * Matplotlib
 * Sage
 * Julia
+* CUTEr
 
 Produtividade
 -------------
 
 * Conhecimentos básicos de GNU/Linux
+
+  * :doc:`../2013/04/26/shell_basica`
+  * :doc:`../2013/05/03/automizacao_de_testes`
+
 * Controle de versão

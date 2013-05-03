@@ -42,6 +42,7 @@ Nessa categoria encontram-se linguagens de programação e afins.
   * Sage
 
 * `Julia <http://julialang.org/>`_
+* CUTEr
 
 Produtividade
 -------------
