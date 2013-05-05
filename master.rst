@@ -9,6 +9,7 @@ Sitemap
    2013/04/20/manifesto
    pages/about
    pages/topics
+   pages/agenda
    pages/old
    pages/contact
 

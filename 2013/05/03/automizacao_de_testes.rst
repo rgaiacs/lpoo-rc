@@ -9,7 +9,7 @@ passada pelo Abel. Os seguintes tópicos foram cobertos hoje:
 * Laço for
 
 Os slides que serviram de guia para aula encontram-se aqui
-:download:`../../../pdfs/2013-05-03-automatizacao_de_testes_raniere.pdf`.
+:download:`aqui <../../../pdfs/2013-05-03-automatizacao_de_testes_raniere.pdf>`.
 
 .. author:: default
 .. categories:: none

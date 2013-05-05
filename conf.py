@@ -8,7 +8,7 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'LPOO - Rede de Colaboração'
+project = u'LPOO - Rede de Colaboração'
 
 # Change this to the tagline of your blog
 tagline = ''
