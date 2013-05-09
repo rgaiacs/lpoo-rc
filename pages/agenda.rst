@@ -10,9 +10,12 @@ Abaixo encontra-se as próximas atividades.
    * - Data
      - Título
      - Instrutor
-   * - 2013/05/10
+   * - 10/05/2013
      - Processando logs com GAWK
      - Raniere Silva
-   * - 2013/05/17
+   * - 17/05/2013
      - Uma introdução ao controle de versão com Git
      - Raniere Silva
+   * - 07/06/2013
+     - Fortran 77 e Fortran 90 - Uma introdução
+     - Hector Flores

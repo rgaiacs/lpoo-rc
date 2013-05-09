@@ -22,7 +22,8 @@ Comunicação
 Programação
 -----------
 
-* C/C++ (ou Fortran)
+* C/C++
+* Fortran
 * Makefile
 * GNU toolchain
 * GNU Debugger
@@ -33,7 +34,8 @@ Programação
 * Matplotlib
 * Sage
 * Julia
-* CUTEr
+* CUTEr/CUTEst
+* TANGO/ALGENCAN
 
 Produtividade
 -------------
@@ -44,3 +46,5 @@ Produtividade
   * :doc:`../2013/05/03/automizacao_de_testes`
 
 * Controle de versão
+* Vim
+* Emacs

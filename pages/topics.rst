@@ -42,7 +42,10 @@ Nessa categoria encontram-se linguagens de programação e afins.
   * Sage
 
 * `Julia <http://julialang.org/>`_
-* CUTEr
+* `CUTEr <http://tracsvn.mathappl.polymtl.ca/trac/cuter>`_/`CUTEst
+  <http://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/>`_
+* `TANGO <http://www.ime.usp.br/~egbirgin/tango/>`_ (`ALGENCAN
+  <http://www.ime.usp.br/~egbirgin/tango/algencan-1.0.php>`_)
 
 Produtividade
 -------------
@@ -53,6 +56,6 @@ de seus usuários.
 
 * Conhecimentos básicos de GNU/Linux (mais especificamente do `GNU Core
   Utilities <http://www.gnu.org/software/coreutils/>`_)
-* Controle de versão (mais espeficigamente do Git)
+* Controle de versão (mais espeficamente do Git)
 * Vim
 * Emacs
