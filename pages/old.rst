@@ -44,6 +44,7 @@ Produtividade
 
   * :doc:`../2013/04/26/shell_basica`
   * :doc:`../2013/05/03/automizacao_de_testes`
+  * :doc:`../2013/05/14/processando_logs`
 
 * Controle de versão
 * Vim
