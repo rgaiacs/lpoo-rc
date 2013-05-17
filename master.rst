@@ -4,6 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/05/17/introducao_ao_controle_de_versao___git
+   2013/05/17/io_em_c
    2013/05/14/processando_logs
    2013/05/03/automizacao_de_testes
    2013/04/26/shell_basica

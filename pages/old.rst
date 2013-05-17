@@ -23,6 +23,9 @@ Programação
 -----------
 
 * C/C++
+
+  * :doc:`../2013/05/17/io_em_c`
+
 * Fortran
 * Makefile
 * GNU toolchain
@@ -47,5 +50,8 @@ Produtividade
   * :doc:`../2013/05/14/processando_logs`
 
 * Controle de versão
+
+  * :doc:`../2013/05/17/introducao_ao_controle_de_versao___git`
+
 * Vim
 * Emacs
