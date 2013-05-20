@@ -1,0 +1,9 @@
+div.admonition{
+    background-color:#B0B0B0;
+    padding:1em;
+}
+
+p.rubric{
+    font-weight:bold;
+    font-size:1em;
+}

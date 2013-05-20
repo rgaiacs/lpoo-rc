@@ -10,12 +10,12 @@ Abaixo encontra-se as próximas atividades.
    * - Data
      - Título
      - Instrutor
-   * - 17/05/2013
-     - C - Printf e Scanf
-     - Abel Siqueira
-   * - 17/05/2013
+   * - 24/05/2013
      - Uma introdução ao controle de versão com Git
      - Raniere Silva
+   * - 24/05/2013
+     - C - Laços
+     - Abel Siqueira
    * - 07/06/2013
      - Fortran 77 e Fortran 90 - Uma introdução
      - Hector Flores

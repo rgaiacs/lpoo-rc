@@ -1,8 +1,8 @@
 .. role:: raw-html(raw)
    :format: html
 
-Tópicos Propostos
-=================
+Tópicos
+=======
 
 Os tópicos propostos encontram-se subdivididos em três categorias: comunicação,
 programação e produtividade. Cada uma dessas categorias são descritas a seguir.
